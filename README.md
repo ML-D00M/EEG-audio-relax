@@ -9,5 +9,5 @@ The EEG data (32 electrodes) were first preprocessed (filtering, artifacts remov
 In this repository you can find:
 1. A Matlab script for calculation of the EEG relaxation indices
 2. R scripts for the statistical analysis and visualization of the experiment results for each of 9 indicies.
-   a. Here we first peformed two-way mixed anova analysis for both groups
-   b. Then we performed one-way anova for the 1.Hypnosis group only
+a. Here we first peformed two-way mixed anova analysis for both groups
+b. Then we performed one-way anova for the 1.Hypnosis group only
